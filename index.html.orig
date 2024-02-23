@@ -2,8 +2,10 @@
 <head>
 </head>
 <body>
+<<<<<<< HEAD
 master
-with
+=======
 new_feature
+>>>>>>> new_feature
 </body>
 </html>
